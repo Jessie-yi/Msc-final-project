@@ -1,5 +1,4 @@
-# Msc-final-project
-# HES Interactive Dashboard (Streamlit + Plotly)
+# Msc-final-project-HES Interactive Dashboard (Streamlit + Plotly)
 
 A multi‑page Streamlit application for exploring NHS Hospital Episode Statistics (HES) across financial years (Apr–Mar 2015-2024). It provides code‑level drill‑downs, trends, treemaps, heatmaps, slopegraphs, and a finder view. Deep‑linking preserves state in the URL so views can be shared and reproduced.
 
